@@ -1,0 +1,1199 @@
+{
+  "Nestphar": {
+    "globe": "assets/dossier-worlds/globes/nestphar.png",
+    "card": "base-game/arborec/back.webp",
+    "description": "Massed green foliage shows through golden bands of spore haze. City-sized Flaah forests float in the stratosphere, replenishing the cloud of living spores that reaches ships and stations in low orbit.",
+    "effects": [
+      "spores"
+    ],
+    "globeRestoration": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/master/src/main/resources/emojis/planets/base/Nestphar.png",
+    "props": [
+      {
+        "model": "flaah",
+        "label": "Stratospheric Flaah forest",
+        "placement": "surface",
+        "concept": "assets/dossier-worlds/models/flaah.png"
+      }
+    ],
+    "name": "Nestphar",
+    "slug": "nestphar",
+    "terrain": "planets-v3/nestphar.webp"
+  },
+  "Valk": {
+    "globe": "assets/dossier-worlds/globes/valk.png",
+    "card": "prophecy-of-kings/argent-flight/back.webp",
+    "description": "In the card’s left-hand moon, amber and orange banks of gas lie over dark green terrain. Valk travels with Avar and Ylir through the breathable Atharal Gas Torus, where airborne animals can cross between worlds.",
+    "effects": [
+      "gas-torus"
+    ],
+    "supplement": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/master/src/main/resources/emojis/planets/pok/Valk.png",
+    "disk": {
+      "center": [
+        1794,
+        329
+      ],
+      "radius": 168,
+      "units": "source pixels"
+    },
+    "props": [
+      {
+        "model": "argent-free-tree",
+        "label": "Free-floating Atharal fruit tree",
+        "placement": "orbit",
+        "concept": "assets/dossier-worlds/models/argent-free-tree-concept.webp",
+        "modelTask": "01a1e0d3-4a58-750e-ae5c-9ce84bd6d6ef",
+        "conceptTask": "01a1e0d1-7d0f-77dd-b541-9f880c65c9ce"
+      }
+    ],
+    "name": "Valk",
+    "slug": "valk",
+    "terrain": "planets-v3/valk.webp"
+  },
+  "Ylir": {
+    "globe": "assets/dossier-worlds/globes/ylir.png",
+    "card": "prophecy-of-kings/argent-flight/back.webp",
+    "description": "The upper moon has a charcoal face, olive and gold markings, and a lavender-gray lower limb. A bright yellow streamer reaches into the shared breathable air of the Atharal Gas Torus.",
+    "effects": [
+      "gas-torus"
+    ],
+    "supplement": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/master/src/main/resources/emojis/planets/pok/Ylir.png",
+    "disk": {
+      "center": [
+        2104,
+        118
+      ],
+      "radius": 164,
+      "units": "source pixels"
+    },
+    "name": "Ylir",
+    "slug": "ylir",
+    "terrain": "planets-v3/ylir.webp"
+  },
+  "Avar": {
+    "globe": "assets/dossier-worlds/globes/avar.png",
+    "card": "prophecy-of-kings/argent-flight/back.webp",
+    "description": "Gold clouds curl around the dark olive globe at the lower right. The Murmeration directs the Flight from its spindle tower on Avar. Free-floating orchards and inhabited rock fragments share the three moons’ gas torus.",
+    "effects": [
+      "gas-torus"
+    ],
+    "supplement": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/master/src/main/resources/emojis/planets/pok/Avar.png",
+    "disk": {
+      "center": [
+        2199,
+        472
+      ],
+      "radius": 176,
+      "units": "source pixels"
+    },
+    "props": [
+      {
+        "model": "avar-spindle-tower",
+        "label": "Spindle tower sanctuary of the Murmeration",
+        "placement": "surface",
+        "concept": "assets/dossier-worlds/models/avar-spindle-tower-concept.webp",
+        "modelTask": "01a1e0db-59d1-724f-8496-c885c02a5de6",
+        "conceptTask": "01a1e0da-0dca-772d-8e32-718cc8b9663d"
+      }
+    ],
+    "name": "Avar",
+    "slug": "avar",
+    "terrain": "planets-v3/avar.webp"
+  },
+  "Acheron": {
+    "globe": "assets/dossier-worlds/globes/acheron.png",
+    "card": "prophecy-of-kings/vuil-raith-cabal/back.webp",
+    "description": "Acheron has shattered. Orange-lit pieces of its crust hang around an opening of pink and violet light. The dossier describes rock tumbling around the gravitational vortex and immense living creatures swimming through its ruins.",
+    "effects": [
+      "debris",
+      "vortex"
+    ],
+    "supplement": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/master/src/main/resources/emojis/planets/pok/Acheron.png",
+    "kind": "rift",
+    "props": [
+      {
+        "model": "acheron-void-beast",
+        "label": "Vuil’raith void leviathan",
+        "placement": "orbit",
+        "concept": "assets/dossier-worlds/models/acheron-void-beast-concept.webp",
+        "modelTask": "01a1e0d3-9b5a-70b2-b983-498826b19d2a",
+        "conceptTask": "01a1e0d1-b3fb-72f9-a7c9-370fb9e4a5c5"
+      }
+    ],
+    "name": "Acheron",
+    "slug": "acheron",
+    "terrain": "planets-v3/acheron.webp"
+  },
+  "The Dark": {
+    "globe": "assets/dossier-worlds/globes/thedark.png",
+    "card": "prophecy-of-kings/empyrean/back.webp",
+    "description": "Cyan and white gas, rose-colored knots and a dark curling center form the nebula pictured on the dossier. The sheet recounts rumors of exposed scaffold complexes drifting within it, where the Empyrean build vessels.",
+    "effects": [
+      "nebula"
+    ],
+    "supplement": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/master/src/main/resources/emojis/planets/pok/TheDark.png",
+    "kind": "nebula",
+    "props": [
+      {
+        "model": "empyrean-scaffold",
+        "label": "Drifting scaffold shipyard (reported)",
+        "placement": "orbit",
+        "concept": "assets/dossier-worlds/models/empyrean-scaffold-concept.webp",
+        "modelTask": "01a1e0d3-56dd-76e4-9f34-e0d7a3d2399b",
+        "conceptTask": "01a1e0d1-85a6-75ab-8558-486f29af7a34"
+      }
+    ],
+    "name": "The Dark",
+    "slug": "thedark",
+    "terrain": "planets-v3/thedark.webp"
+  },
+  "Creuss": {
+    "globe": "assets/dossier-worlds/globes/creuss.png",
+    "card": "base-game/ghosts-of-creuss/back.webp",
+    "description": "The dossier depicts the Shaleri Passage. Blue and turquoise filaments curl around a brilliant lavender core with a bright diagonal jet. Early crews reported fibrous clouds of energy, and the Entropic encountered rune-worked gray ships here.",
+    "effects": [
+      "vortex"
+    ],
+    "globeRestoration": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/master/src/main/resources/emojis/planets/base/PlanetCreuss.png",
+    "props": [
+      {
+        "model": "shaleri-vessel",
+        "label": "Creuss first-contact vessel",
+        "placement": "orbit",
+        "concept": "assets/dossier-worlds/models/shaleri-vessel.png"
+      }
+    ],
+    "kind": "vortex",
+    "name": "Creuss",
+    "slug": "creuss",
+    "terrain": "planets-v3/creuss.webp"
+  },
+  "Hercant": {
+    "globe": "assets/dossier-worlds/globes/hercant.png",
+    "card": "base-game/emirates-of-hacan/back.webp",
+    "description": "Rust-red sand glows through yellow-green desert haze beneath Kenara. Starflowers rise at equinox, while most cities migrate on enormous dust-sleds. Merchant vessels visit the trading stations of the system.",
+    "effects": [
+      "dust",
+      "traffic"
+    ],
+    "globeRestoration": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/master/src/main/resources/emojis/planets/base/Hercant.png",
+    "props": [
+      {
+        "model": "kenara-exchange",
+        "label": "Kenara merchant exchange",
+        "placement": "orbit",
+        "concept": "assets/dossier-worlds/models/kenara-exchange.png"
+      },
+      {
+        "model": "hacan-dust-sled",
+        "label": "Hacan dust-sled city",
+        "placement": "surface",
+        "concept": "assets/dossier-worlds/models/hacan-dust-sled.png"
+      }
+    ],
+    "name": "Hercant",
+    "slug": "hercant",
+    "terrain": "planets-v3/hercant.webp"
+  },
+  "Arretze": {
+    "globe": "assets/dossier-worlds/globes/arretze.png",
+    "card": "base-game/emirates-of-hacan/back.webp",
+    "description": "Bright yellow sand covers the planet beneath a veil of ochre dust. Harcarun occupies a shadowed polar valley. It is the sole fixed city in a system of traveling desert settlements and crowded trading stations.",
+    "effects": [
+      "dust",
+      "traffic"
+    ],
+    "globeRestoration": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/master/src/main/resources/emojis/planets/base/Arretze.png",
+    "props": [
+      {
+        "model": "kenara-exchange",
+        "label": "Kenara merchant exchange",
+        "placement": "orbit",
+        "concept": "assets/dossier-worlds/models/kenara-exchange.png"
+      }
+    ],
+    "name": "Arretze",
+    "slug": "arretze",
+    "terrain": "planets-v3/arretze.webp"
+  },
+  "Kamdorn": {
+    "globe": "assets/dossier-worlds/globes/kamdorn.png",
+    "card": "base-game/emirates-of-hacan/back.webp",
+    "description": "A pale eastern crescent borders the muted rust and plum-colored sands. Yellow desert haze moves over the dunes as the Hacan follow cooler conditions aboard their dust-sled cities.",
+    "effects": [
+      "dust",
+      "traffic"
+    ],
+    "globeRestoration": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/master/src/main/resources/emojis/planets/base/Kamdorn.png",
+    "props": [
+      {
+        "model": "hacan-dust-sled",
+        "label": "Hacan dust-sled city",
+        "placement": "surface",
+        "concept": "assets/dossier-worlds/models/hacan-dust-sled.png"
+      }
+    ],
+    "name": "Kamdorn",
+    "slug": "kamdorn",
+    "terrain": "planets-v3/kamdorn.webp"
+  },
+  "Nar": {
+    "globe": "assets/dossier-worlds/globes/nar.png",
+    "card": "base-game/universities-of-jol-nar/back.webp",
+    "description": "Deep violet and sapphire waters brighten into turquoise shoals on this ocean world. The Hylar extract medicines and metals from algae and coral formations on both of the Garian twins.",
+    "effects": [
+      "ocean"
+    ],
+    "disk": {
+      "center": [
+        981,
+        182
+      ],
+      "radius": 106,
+      "units": "source pixels"
+    },
+    "restorationSource": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/b79ba115e86c5e25501583caae4d0c9b97cdfc47/src/main/resources/emojis/planets/base/Nar.png",
+    "restoration": "Dossier pixels aligned with the matching board globe to restore the portion hidden by the system panel.",
+    "name": "Nar",
+    "slug": "nar",
+    "terrain": "planets-v3/nar.webp"
+  },
+  "Jol": {
+    "globe": "assets/dossier-worlds/globes/jol.png",
+    "card": "base-game/universities-of-jol-nar/back.webp",
+    "description": "Blue-green oceans and pale swirls cover Jol. The Hylar Headmaster rules from Wun-Escha, a city deep under these waters. Coral and algae grow in both worlds’ seas.",
+    "effects": [
+      "ocean"
+    ],
+    "disk": {
+      "center": [
+        1205,
+        103
+      ],
+      "radius": 106,
+      "units": "source pixels"
+    },
+    "props": [
+      {
+        "model": "wun-escha",
+        "label": "Submerged city of Wun-Escha",
+        "placement": "surface"
+      }
+    ],
+    "evidence": "Architectural form is a cutaway interpretation of the city below the sea.",
+    "restorationSource": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/b79ba115e86c5e25501583caae4d0c9b97cdfc47/src/main/resources/emojis/planets/base/Jol.png",
+    "restoration": "Dossier pixels aligned with the matching board globe to restore the portion hidden by the system panel.",
+    "name": "Jol",
+    "slug": "jol",
+    "terrain": "planets-v3/jol.webp"
+  },
+  "[0.0.0]": {
+    "globe": "assets/dossier-worlds/globes/0-0-0.png",
+    "card": "base-game/l1z1x-mindnet/back.webp",
+    "description": "The card paints pale, curling tracery across a dark green world. The record describes a cold planet orbiting the small star Hazz. A historical freighter recalls the flight of Ibna Vel Syd’s diaspora.",
+    "effects": [
+      "traffic"
+    ],
+    "globeRestoration": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/master/src/main/resources/emojis/planets/base/Planet000.png",
+    "props": [
+      {
+        "model": "null-freighter",
+        "label": "Manda · historical reconstruction",
+        "placement": "orbit",
+        "concept": "assets/dossier-worlds/models/null-freighter.png"
+      }
+    ],
+    "name": "[0.0.0]",
+    "slug": "0-0-0",
+    "terrain": "planets-v3/0-0-0.webp"
+  },
+  "Arc Prime": {
+    "globe": "assets/dossier-worlds/globes/arcprime.png",
+    "card": "base-game/barony-of-letnev/back.webp",
+    "description": "Arc Prime drifts without a central star. The dull bronze-gray shell bears a pressurized black-metal city inside Dunlain Crater. Underground factories vent pollutants that freeze into black residue, and military vessels cluster overhead.",
+    "effects": [
+      "soot",
+      "traffic"
+    ],
+    "globeRestoration": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/master/src/main/resources/emojis/planets/base/ArcPrime.png",
+    "props": [
+      {
+        "model": "feruc",
+        "label": "Feruc in Dunlain Crater",
+        "placement": "surface",
+        "concept": "assets/dossier-worlds/models/feruc.png"
+      }
+    ],
+    "name": "Arc Prime",
+    "slug": "arcprime",
+    "terrain": "planets-v3/arcprime.webp"
+  },
+  "Wren Terra": {
+    "globe": "assets/dossier-worlds/globes/wrenterra.png",
+    "card": "base-game/barony-of-letnev/back.webp",
+    "description": "Brilliant green highlands give way to a nearly black lower hemisphere. Wren Terra shines across the starless system and its agricultural colonies feed the underground cities of Arc Prime.",
+    "effects": [
+      "traffic"
+    ],
+    "globeRestoration": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/master/src/main/resources/emojis/planets/base/WrenTerra.png",
+    "name": "Wren Terra",
+    "slug": "wrenterra",
+    "terrain": "planets-v3/wrenterra.webp"
+  },
+  "Ixth": {
+    "globe": "assets/dossier-worlds/globes/ixth.png",
+    "card": "prophecy-of-kings/mahact-gene-sorcerers/back.webp",
+    "description": "Concentric red-black rings cover the hemisphere like the tiers of a vast machine. Ixth now moves without a star. City-machines and subterranean assembly halls have restarted, lifting dreadnoughts into orbit.",
+    "effects": [
+      "machinery"
+    ],
+    "supplement": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/master/src/main/resources/emojis/planets/pok/Ixth.png",
+    "disk": {
+      "center": [
+        2026,
+        306
+      ],
+      "radius": 274,
+      "units": "source pixels"
+    },
+    "props": [
+      {
+        "model": "ixth-assembler",
+        "label": "Ixthian assembler hall",
+        "placement": "surface",
+        "concept": "assets/dossier-worlds/models/ixth-assembler-concept.webp",
+        "modelTask": "01a1e0d3-6631-7059-a99f-2cc6259e5536",
+        "conceptTask": "01a1e0d1-8e40-72b1-a7d9-06baa24caf67"
+      }
+    ],
+    "name": "Ixth",
+    "slug": "ixth",
+    "terrain": "planets-v3/ixth.webp"
+  },
+  "Moll Primus": {
+    "globe": "assets/dossier-worlds/globes/mollprimus.png",
+    "card": "base-game/mentak-coalition/back.webp",
+    "description": "Gold-orange meet grass covers the plains, interrupted by scattered lakes and young mountain ranges. Green valleys follow icy mountain streams, and all three tiny moons provided metal for the coalition.",
+    "effects": [
+      "moons"
+    ],
+    "globeRestoration": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/master/src/main/resources/emojis/planets/base/MollPrimus.png",
+    "props": [
+      {
+        "model": "mentak-freighter",
+        "label": "Passage of Tears prison freighter · historical reconstruction",
+        "placement": "orbit",
+        "concept": "assets/dossier-worlds/models/mentak-freighter.png"
+      }
+    ],
+    "moonCount": 3,
+    "name": "Moll Primus",
+    "slug": "mollprimus",
+    "terrain": "planets-v3/mollprimus.webp"
+  },
+  "Muaat": {
+    "globe": "assets/dossier-worlds/globes/muaat.png",
+    "card": "base-game/embers-of-muaat/back.webp",
+    "description": "Branching incandescent fissures cut through rusty red and charcoal volcanic crust. The Gashlai captured the enormous orbital shipyard where their former rulers assembled a War Sun.",
+    "effects": [
+      "embers"
+    ],
+    "globeRestoration": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/master/src/main/resources/emojis/planets/base/PlanetMuaat.png",
+    "props": [
+      {
+        "model": "muaat-shipyard",
+        "label": "Captured Muaat orbital shipyard",
+        "placement": "orbit",
+        "concept": "assets/dossier-worlds/models/muaat-shipyard.png"
+      }
+    ],
+    "name": "Muaat",
+    "slug": "muaat",
+    "terrain": "planets-v3/muaat.webp"
+  },
+  "Maaluuk": {
+    "globe": "assets/dossier-worlds/globes/maaluuk.png",
+    "card": "base-game/naalu-collective/back.webp",
+    "description": "Ochre and rust-colored lowlands on the sheet give way to Maaluuk’s mist plains and dank bogs. Iron extraction plants and shafts into underground gas mines lie in the industrial marshes.",
+    "effects": [
+      "mist",
+      "machinery"
+    ],
+    "disk": {
+      "center": [
+        982,
+        183
+      ],
+      "radius": 106,
+      "units": "source pixels"
+    },
+    "props": [
+      {
+        "model": "maaluuk-extraction",
+        "label": "Miashan iron-extraction works",
+        "placement": "surface"
+      }
+    ],
+    "restorationSource": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/b79ba115e86c5e25501583caae4d0c9b97cdfc47/src/main/resources/emojis/planets/base/Maaluuk.png",
+    "restoration": "Dossier pixels aligned with the matching board globe to restore the portion hidden by the system panel.",
+    "name": "Maaluuk",
+    "slug": "maaluuk",
+    "terrain": "planets-v3/maaluuk.webp"
+  },
+  "Druaa": {
+    "globe": "assets/dossier-worlds/globes/druaa.png",
+    "card": "base-game/naalu-collective/back.webp",
+    "description": "Emerald, violet and white regions distinguish Druaa from its ochre neighbor. Its crystal cities preserve the surrounding landscape. Gliders carry raw materials from underground warehouses to the cities. Its two moons host Naalu mustering grounds.",
+    "effects": [
+      "traffic"
+    ],
+    "disk": {
+      "center": [
+        1206,
+        105
+      ],
+      "radius": 106,
+      "units": "source pixels"
+    },
+    "props": [
+      {
+        "model": "druaa-glider",
+        "label": "Naalu supply glider",
+        "placement": "atmosphere"
+      }
+    ],
+    "restorationSource": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/b79ba115e86c5e25501583caae4d0c9b97cdfc47/src/main/resources/emojis/planets/base/Druaa.png",
+    "restoration": "Dossier pixels aligned with the matching board globe to restore the portion hidden by the system panel.",
+    "moonCount": 2,
+    "name": "Druaa",
+    "slug": "druaa",
+    "terrain": "planets-v3/druaa.webp"
+  },
+  "Naazir": {
+    "globe": "assets/dossier-worlds/globes/naazir.png",
+    "card": "prophecy-of-kings/naaz-rokha-alliance/back.webp",
+    "description": "Pale green and ivory patches crown a globe of deep green ridges. Once the site of a Winnu industrial colony, Naazir became the shared home of both peoples after the defeat of the Letnev merchant-princes.",
+    "effects": [
+      "traffic"
+    ],
+    "supplement": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/master/src/main/resources/emojis/planets/pok/Naazir.png",
+    "disk": {
+      "center": [
+        1828,
+        335
+      ],
+      "radius": 198,
+      "units": "source pixels"
+    },
+    "name": "Naazir",
+    "slug": "naazir",
+    "terrain": "planets-v3/naazir.webp"
+  },
+  "Rokha": {
+    "globe": "assets/dossier-worlds/globes/rokha.png",
+    "card": "prophecy-of-kings/naaz-rokha-alliance/back.webp",
+    "description": "Forest green wraps around blue and lilac basins on the second world. The Alliance terraformed this neighbor of Naazir and settled it in equal numbers. The survey lander interprets that work.",
+    "effects": [
+      "traffic"
+    ],
+    "supplement": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/master/src/main/resources/emojis/planets/pok/Rokha.png",
+    "disk": {
+      "center": [
+        2241,
+        183
+      ],
+      "radius": 200,
+      "units": "source pixels"
+    },
+    "props": [
+      {
+        "model": "alliance-survey-lander",
+        "label": "Alliance survey lander",
+        "placement": "surface",
+        "concept": "assets/dossier-worlds/models/alliance-survey-lander-concept.webp",
+        "modelTask": "01a1e0d3-74af-765c-b209-1212653c851e",
+        "conceptTask": "01a1e0d1-98f9-76c6-8757-5e98b3f91aff"
+      }
+    ],
+    "name": "Rokha",
+    "slug": "rokha",
+    "terrain": "planets-v3/rokha.webp"
+  },
+  "Mordai II": {
+    "globe": "assets/dossier-worlds/globes/mordai-ii.png",
+    "card": "base-game/nekro-virus/back.webp",
+    "description": "Bands of exposed metal cross a glowing red interior. Gaps in the sphere reveal the layers of construction. The dossier describes mobile Abbadon factories that consume metal and build machines.",
+    "effects": [
+      "machinery"
+    ],
+    "disk": {
+      "center": [
+        1093,
+        169
+      ],
+      "radius": 152,
+      "units": "source pixels"
+    },
+    "props": [
+      {
+        "model": "mordai-abbadon",
+        "label": "Abbadon mobile factory",
+        "placement": "surface"
+      }
+    ],
+    "restorationSource": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/b79ba115e86c5e25501583caae4d0c9b97cdfc47/src/main/resources/emojis/planets/base/Mordai.png",
+    "restoration": "Dossier pixels aligned with the matching board globe to restore the portion hidden by the system panel.",
+    "name": "Mordai II",
+    "slug": "mordai-ii",
+    "terrain": "planets-v3/mordaiii.webp"
+  },
+  "Arcturus": {
+    "globe": "assets/dossier-worlds/globes/arcturus.png",
+    "card": "prophecy-of-kings/nomad/back.webp",
+    "description": "Mint-white ice and broken pale ridges cap a blue-black surface. Smugglers conceal cargo on the ice-locked planet while traders crowd the shipping bays of Space Station Sumerian, the enormous metal ring that encircles it.",
+    "effects": [
+      "station-ring",
+      "traffic"
+    ],
+    "supplement": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/master/src/main/resources/emojis/planets/pok/Arcturus.png",
+    "disk": {
+      "center": [
+        2024,
+        304
+      ],
+      "radius": 245,
+      "units": "source pixels"
+    },
+    "props": [
+      {
+        "model": "sumerian-station",
+        "label": "Space Station Sumerian",
+        "placement": "orbit",
+        "concept": "assets/dossier-worlds/models/sumerian-station-concept.webp",
+        "modelTask": "01a1e0d3-812f-75dd-962b-2c26b23d1429",
+        "conceptTask": "01a1e0d1-a1f2-7696-bf85-d31bada97b89"
+      }
+    ],
+    "name": "Arcturus",
+    "slug": "arcturus",
+    "reference": "assets/dossier-worlds/reference/arcturus.png",
+    "terrain": "planets-v3/arcturus.webp"
+  },
+  "Lisis II": {
+    "globe": "assets/dossier-worlds/globes/lisisii.png",
+    "card": "base-game/clan-of-saar/back.webp",
+    "description": "A battered, elongated asteroid with a green cleft in an ochre and charcoal face. In Jorun’s vast asteroid field, the Saar find shelter, frozen water and food within atmospheric caverns.",
+    "effects": [
+      "asteroids"
+    ],
+    "globeRestoration": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/master/src/main/resources/emojis/planets/base/LisisII.png",
+    "props": [
+      {
+        "model": "jorun-colony",
+        "label": "Saar cavern settlement",
+        "placement": "surface",
+        "concept": "assets/dossier-worlds/models/jorun-colony.png"
+      }
+    ],
+    "kind": "asteroid",
+    "name": "Lisis II",
+    "slug": "lisisii",
+    "terrain": "planets-v3/lisisii.webp"
+  },
+  "Ragh": {
+    "globe": "assets/dossier-worlds/globes/ragh.png",
+    "card": "base-game/clan-of-saar/back.webp",
+    "description": "The card shows an irregular, slanted body with pale mineral exposures and a dark fractured underside. Ragh Gavar’s crew found frozen water, breathable caves and strange fauna inside the rock.",
+    "effects": [
+      "asteroids"
+    ],
+    "globeRestoration": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/master/src/main/resources/emojis/planets/base/Rahg.png",
+    "props": [
+      {
+        "model": "jorun-colony",
+        "label": "Saar cavern settlement",
+        "placement": "surface",
+        "concept": "assets/dossier-worlds/models/jorun-colony.png"
+      }
+    ],
+    "kind": "asteroid",
+    "name": "Ragh",
+    "slug": "ragh",
+    "terrain": "planets-v3/ragh.webp"
+  },
+  "Tren'lak": {
+    "globe": "assets/dossier-worlds/globes/tren-lak.png",
+    "card": "base-game/sardakk-n-orr/back.webp",
+    "description": "Tren’lak appears chalky ivory over a dark charcoal surface. Convoys carry whole mountains of its ice to the plants serving Quinarra.",
+    "effects": [
+      "traffic"
+    ],
+    "disk": {
+      "center": [
+        985,
+        181
+      ],
+      "radius": 106,
+      "units": "source pixels"
+    },
+    "restorationSource": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/b79ba115e86c5e25501583caae4d0c9b97cdfc47/src/main/resources/emojis/planets/base/Trenlak.png",
+    "restoration": "Dossier pixels aligned with the matching board globe to restore the portion hidden by the system panel.",
+    "name": "Tren'lak",
+    "slug": "tren-lak",
+    "terrain": "planets-v3/trenlak.webp",
+    "props": [
+      {
+        "model": "ice-tug",
+        "label": "Robotic ice-mountain tug",
+        "placement": "orbit"
+      }
+    ]
+  },
+  "Quinarra": {
+    "globe": "assets/dossier-worlds/globes/quinarra.png",
+    "card": "base-game/sardakk-n-orr/back.webp",
+    "description": "An oceanless dusty-ruby world with a pale storm mass. Its polar storms are visible from space. Lightning, hail and dust storms cross the continents, where reddish city-nests extend below deep gorges. Ice convoys supply its orbital processing plants.",
+    "effects": [
+      "lightning",
+      "dust",
+      "hail"
+    ],
+    "disk": {
+      "center": [
+        1205,
+        102
+      ],
+      "radius": 106,
+      "units": "source pixels"
+    },
+    "restorationSource": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/b79ba115e86c5e25501583caae4d0c9b97cdfc47/src/main/resources/emojis/planets/base/Quinarra.png",
+    "restoration": "Dossier pixels aligned with the matching board globe to restore the portion hidden by the system panel.",
+    "name": "Quinarra",
+    "slug": "quinarra",
+    "terrain": "planets-v3/quinarra.webp",
+    "props": [
+      {
+        "model": "quinarra",
+        "label": "Orbital liquid-processing plant",
+        "placement": "orbit"
+      },
+      {
+        "model": "sunglider",
+        "label": "Water and salt sunglider",
+        "placement": "atmosphere"
+      },
+      {
+        "model": "quinarra-saltworks",
+        "label": "Brine separation and dispatch plant",
+        "placement": "orbit"
+      }
+    ]
+  },
+  "Jord": {
+    "globe": "assets/dossier-worlds/globes/jord.png",
+    "card": "base-game/federation-of-sol/back.webp",
+    "description": "Deep blue ocean, green continents and curling white clouds define the human homeworld. Its great moon drives the tides. Lunar stations and bulky orbital naval platforms sustain dense traffic above the atmosphere.",
+    "effects": [
+      "clouds",
+      "traffic"
+    ],
+    "globeRestoration": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/master/src/main/resources/emojis/planets/base/Jord.png",
+    "props": [
+      {
+        "model": "jord-platform",
+        "label": "Sol naval mooring platform",
+        "placement": "orbit",
+        "concept": "assets/dossier-worlds/models/jord-platform.png"
+      }
+    ],
+    "moonCount": 1,
+    "name": "Jord",
+    "slug": "jord",
+    "terrain": "planets-v3/jord.webp"
+  },
+  "Elysium": {
+    "globe": "assets/dossier-worlds/globes/elysium.png",
+    "card": "prophecy-of-kings/titans-of-ul/back.webp",
+    "description": "The ivory, pale gold and blue surface belongs to a Dyson shell built around a singularity. The Titans seed gardens across the shell. The Ul stands over the buildings of Transcendence, the world’s one great city.",
+    "effects": [
+      "traffic"
+    ],
+    "supplement": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/master/src/main/resources/emojis/planets/pok/Elysium.png",
+    "disk": {
+      "center": [
+        2021,
+        309
+      ],
+      "radius": 276,
+      "units": "source pixels"
+    },
+    "props": [
+      {
+        "model": "ul-transcendence",
+        "label": "The Ul at Transcendence",
+        "placement": "surface",
+        "concept": "assets/dossier-worlds/models/ul-transcendence-concept.webp",
+        "modelTask": "01a1e0d3-8d24-7099-915e-e5965dd06623",
+        "conceptTask": "01a1e0d1-aacc-7324-ac13-9885013a8e68"
+      }
+    ],
+    "name": "Elysium",
+    "slug": "elysium",
+    "terrain": "planets-v3/elysium.webp"
+  },
+  "Winnu": {
+    "globe": "assets/dossier-worlds/globes/winnu.png",
+    "card": "base-game/winnu/back.webp",
+    "description": "The card shows yellow-gold country above a broad band of brick red and violet shadow. Ancient Lazax assistance healed Winnu’s deteriorating climate. The Winnu now build fleets whose forms recall old Lazax designs.",
+    "effects": [
+      "traffic"
+    ],
+    "disk": {
+      "center": [
+        1093,
+        167
+      ],
+      "radius": 150,
+      "units": "source pixels"
+    },
+    "props": [
+      {
+        "model": "winnu-lazax-cruiser",
+        "label": "Winnu fleet mobilization",
+        "placement": "orbit"
+      }
+    ],
+    "restorationSource": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/b79ba115e86c5e25501583caae4d0c9b97cdfc47/src/main/resources/emojis/planets/base/PlanetWinnu.png",
+    "restoration": "Dossier pixels aligned with the matching board globe to restore the portion hidden by the system panel.",
+    "name": "Winnu",
+    "slug": "winnu",
+    "terrain": "planets-v3/winnu.webp"
+  },
+  "Archon Ren": {
+    "globe": "assets/dossier-worlds/globes/archon-ren.png",
+    "card": "base-game/xxcha-kingdom/back.webp",
+    "description": "Leafy forests, fruitful jungles and small inland seas make Ren green and turquoise. Its southern metropolis Kklaj surrounds a royal palace sculpted entirely from Q’waar wood and gardens.",
+    "effects": [
+      "mist"
+    ],
+    "disk": {
+      "center": [
+        984,
+        179
+      ],
+      "radius": 106,
+      "units": "source pixels"
+    },
+    "props": [
+      {
+        "model": "qwaar-palace",
+        "label": "Q’waar palace at Kklaj",
+        "placement": "surface"
+      }
+    ],
+    "restorationSource": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/b79ba115e86c5e25501583caae4d0c9b97cdfc47/src/main/resources/emojis/planets/base/ArchonRen.png",
+    "restoration": "Dossier pixels aligned with the matching board globe to restore the portion hidden by the system panel.",
+    "name": "Archon Ren",
+    "slug": "archon-ren",
+    "terrain": "planets-v3/archonren.webp"
+  },
+  "Archon Tau": {
+    "globe": "assets/dossier-worlds/globes/archon-tau.png",
+    "card": "base-game/xxcha-kingdom/back.webp",
+    "description": "A yellow-lit scar breaks through the gray and plum shadow of Ren’s ruined twin. Bombardment burned its forests, and ash and dust brought a century of winter.",
+    "effects": [
+      "dust"
+    ],
+    "disk": {
+      "center": [
+        1203,
+        99
+      ],
+      "radius": 106,
+      "units": "source pixels"
+    },
+    "restorationSource": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/b79ba115e86c5e25501583caae4d0c9b97cdfc47/src/main/resources/emojis/planets/base/ArchonTau.png",
+    "restoration": "Dossier pixels aligned with the matching board globe to restore the portion hidden by the system panel.",
+    "name": "Archon Tau",
+    "slug": "archon-tau",
+    "terrain": "planets-v3/archontau.webp"
+  },
+  "Darien": {
+    "globe": "assets/dossier-worlds/globes/darien.png",
+    "card": "base-game/yin-brotherhood/back.webp",
+    "description": "Amber plains catch the light beside a dark rust-brown hemisphere. Strong winds cross the Hills of Grace, where the Monastery of Lucas grew to cover the hills and surrounding plains. One of the moons where the Brotherhood established monasteries appears overhead.",
+    "effects": [
+      "dust"
+    ],
+    "disk": {
+      "center": [
+        1095,
+        169
+      ],
+      "radius": 148,
+      "units": "source pixels"
+    },
+    "props": [
+      {
+        "model": "lucas-monastery",
+        "label": "Monastery of Lucas",
+        "placement": "surface"
+      }
+    ],
+    "restorationSource": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/b79ba115e86c5e25501583caae4d0c9b97cdfc47/src/main/resources/emojis/planets/base/Darien.png",
+    "restoration": "Dossier pixels aligned with the matching board globe to restore the portion hidden by the system panel.",
+    "moonCount": 1,
+    "name": "Darien",
+    "slug": "darien",
+    "terrain": "planets-v3/darien.webp"
+  },
+  "Retillion": {
+    "globe": "assets/dossier-worlds/globes/retillion.png",
+    "card": "base-game/yssaril-tribes/back.webp",
+    "description": "The dark green mottling marks the homeland of the Yssaril. Bog mists cross the vast Fianni swamps, where the location of their capital Wuecca remains a secret.",
+    "effects": [
+      "mist"
+    ],
+    "disk": {
+      "center": [
+        984,
+        183
+      ],
+      "radius": 105,
+      "units": "source pixels"
+    },
+    "restorationSource": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/b79ba115e86c5e25501583caae4d0c9b97cdfc47/src/main/resources/emojis/planets/base/Retillion.png",
+    "restoration": "Dossier pixels aligned with the matching board globe to restore the portion hidden by the system panel.",
+    "name": "Retillion",
+    "slug": "retillion",
+    "terrain": "planets-v3/retillion.webp"
+  },
+  "Shalloq": {
+    "globe": "assets/dossier-worlds/globes/shalloq.png",
+    "card": "base-game/yssaril-tribes/back.webp",
+    "description": "Emerald and teal terrain shows beneath white swirls. Visitors and merchants enter Yssaril territory through Mojeb or Haarsuh, the great orbital trade station over Shalloq.",
+    "effects": [
+      "clouds",
+      "traffic"
+    ],
+    "disk": {
+      "center": [
+        1206,
+        105
+      ],
+      "radius": 106,
+      "units": "source pixels"
+    },
+    "props": [
+      {
+        "model": "haarsuh",
+        "label": "Haarsuh orbital trade station",
+        "placement": "orbit"
+      }
+    ],
+    "restorationSource": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/b79ba115e86c5e25501583caae4d0c9b97cdfc47/src/main/resources/emojis/planets/base/Shalloq.png",
+    "restoration": "Dossier pixels aligned with the matching board globe to restore the portion hidden by the system panel.",
+    "name": "Shalloq",
+    "slug": "shalloq",
+    "terrain": "planets-v3/shalloq.webp"
+  },
+  "Ordinian": {
+    "globe": "assets/dossier-worlds/globes/ordinian.png",
+    "card": "thunders-edge/last-bastion/back.webp",
+    "description": "Ash-gray highlands, pale rubble and blackened wastes mark Ordinian after the war against the Nekro. Salvage crews clear the remains of machines while a new capital grows around the wreck of the Orlando. Two ragged-metal Seraphs, Helios and Hyperion, hover above the wreckage and help build the orbital shipyard.",
+    "effects": [
+      "dust"
+    ],
+    "disk": {
+      "center": [
+        1819,
+        338
+      ],
+      "radius": 194,
+      "units": "source pixels"
+    },
+    "restoration": "Matching board globe cutout registered to the visible dossier image. The board illustration supplies the areas concealed by the card layout.",
+    "restorationSource": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/b79ba115e86c5e25501583caae4d0c9b97cdfc47/src/main/resources/emojis/planets/te/Ordinian.png",
+    "props": [
+      {
+        "model": "seraph-helios",
+        "label": "Seraph Helios",
+        "placement": "atmosphere"
+      },
+      {
+        "model": "seraph-hyperion",
+        "label": "Seraph Hyperion",
+        "placement": "atmosphere"
+      }
+    ],
+    "name": "Ordinian",
+    "slug": "ordinian",
+    "terrain": "planets-v3/ordinian.webp"
+  },
+  "Revelation": {
+    "globe": "assets/dossier-worlds/globes/revelation.png",
+    "card": "thunders-edge/last-bastion/back.webp",
+    "description": "The card shows a gold stepped tower rising above a dark docking platform and a long suspended keel. Fortress Revelation is the orbital shipyard being assembled over Ordinian with help from the two Seraphs.",
+    "effects": [
+      "traffic"
+    ],
+    "disk": {
+      "center": [
+        2222,
+        182
+      ],
+      "radius": 180,
+      "units": "source pixels"
+    },
+    "props": [
+      {
+        "model": "fortress-revelation",
+        "label": "Fortress Revelation orbital shipyard",
+        "placement": "body"
+      }
+    ],
+    "kind": "station",
+    "restoration": "Matching board globe cutout registered to the visible dossier image. The board illustration supplies the areas concealed by the card layout.",
+    "restorationSource": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/b79ba115e86c5e25501583caae4d0c9b97cdfc47/src/main/resources/emojis/planets/te/Revelation.png",
+    "name": "Revelation",
+    "slug": "revelation",
+    "terrain": "planets-v3/revelation.webp"
+  },
+  "Ikatena": {
+    "globe": "assets/dossier-worlds/globes/ikatena.png",
+    "card": "thunders-edge/deepwrought-scholarate/back.webp",
+    "description": "Shallow cyan water and dark blue depths spread across Ikatena, the ocean world shared by the Kieros and Hylar. New ships drift from grav-slips in orbit. Its largest moon, shown here, once concealed the Crimson Legionnaire fleet.",
+    "effects": [
+      "ocean"
+    ],
+    "disk": {
+      "center": [
+        2030,
+        312
+      ],
+      "radius": 276,
+      "units": "source pixels"
+    },
+    "props": [
+      {
+        "model": "ikatena-grav-slip",
+        "label": "Orbital grav-slip",
+        "placement": "orbit"
+      }
+    ],
+    "restoration": "Matching board globe cutout registered to the visible dossier image. The board illustration supplies the areas concealed by the card layout.",
+    "restorationSource": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/b79ba115e86c5e25501583caae4d0c9b97cdfc47/src/main/resources/emojis/planets/te/Ikatena.png",
+    "moonCount": 1,
+    "name": "Ikatena",
+    "slug": "ikatena",
+    "terrain": "planets-v3/ikatena.webp"
+  },
+  "Ahk Creuxx": {
+    "globe": "assets/dossier-worlds/globes/ahk-creuxx.png",
+    "card": "thunders-edge/crimson-rebellion/back.webp",
+    "description": "White-hot knots and red filaments radiate through a crimson field. The crimson Creuss reached this alternate realm using wormhole drives aboard their largest ships. Its energy has a different phase from their old dimension.",
+    "effects": [
+      "energy"
+    ],
+    "disk": {
+      "center": [
+        2023,
+        310
+      ],
+      "radius": 274,
+      "units": "source pixels"
+    },
+    "props": [
+      {
+        "model": "ahk-gate-ship",
+        "label": "Crimson Creuss gate ship",
+        "placement": "orbit"
+      }
+    ],
+    "kind": "dimension",
+    "restoration": "Matching board globe cutout registered to the visible dossier image. The board illustration supplies the areas concealed by the card layout.",
+    "restorationSource": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/b79ba115e86c5e25501583caae4d0c9b97cdfc47/src/main/resources/emojis/planets/te/AhkCreuxx.png",
+    "name": "Ahk Creuxx",
+    "slug": "ahk-creuxx",
+    "terrain": "planets-v3/ahkcreuxx.webp"
+  },
+  "Mez Lo Orz Fei Zsha": {
+    "globe": "assets/dossier-worlds/globes/mez-lo-orz-fei-zsha.png",
+    "card": "thunders-edge/ral-nel-consortium/back.webp",
+    "description": "White and plum patches interrupt the green surface. Huge circular cities, each the stronghold of a different zio gen, are visible from orbit. Shuttles stream between them.",
+    "effects": [
+      "traffic"
+    ],
+    "disk": {
+      "center": [
+        1819,
+        338
+      ],
+      "radius": 197,
+      "units": "source pixels"
+    },
+    "props": [
+      {
+        "model": "mez-shuttle",
+        "label": "Zio gen city shuttle",
+        "placement": "atmosphere"
+      }
+    ],
+    "restoration": "Matching board globe cutout registered to the visible dossier image. The board illustration supplies the areas concealed by the card layout.",
+    "restorationSource": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/b79ba115e86c5e25501583caae4d0c9b97cdfc47/src/main/resources/emojis/planets/te/MezLoOrzFeiZsha.png",
+    "name": "Mez Lo Orz Fei Zsha",
+    "slug": "mez-lo-orz-fei-zsha",
+    "terrain": "planets-v3/mez.webp"
+  },
+  "Rep Lo Orz Qet": {
+    "globe": "assets/dossier-worlds/globes/rep-lo-orz-qet.png",
+    "card": "thunders-edge/ral-nel-consortium/back.webp",
+    "description": "A turquoise tropical sea bisects the ochre northern and red southern deserts. The Ral Nel preserve more of their original biosphere here than on neighboring Fei Zsha.",
+    "effects": [
+      "ocean"
+    ],
+    "disk": {
+      "center": [
+        2234,
+        190
+      ],
+      "radius": 197,
+      "units": "source pixels"
+    },
+    "restoration": "Matching board globe cutout registered to the visible dossier image. The board illustration supplies the areas concealed by the card layout.",
+    "restorationSource": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/b79ba115e86c5e25501583caae4d0c9b97cdfc47/src/main/resources/emojis/planets/te/RepLoOrzQet.png",
+    "name": "Rep Lo Orz Qet",
+    "slug": "rep-lo-orz-qet",
+    "terrain": "planets-v3/rep.webp"
+  },
+  "Cronos": {
+    "globe": "assets/dossier-worlds/globes/cronos.png",
+    "card": "thunders-edge/firmament-the-obsidian/firmament-back.webp",
+    "description": "Cream-colored atmospheric bands turn mauve and plum across Cronos, beneath flat, multicolored rings. Firmament organizers took control of its government through the electoral process.",
+    "effects": [
+      "planetary-rings"
+    ],
+    "supplement": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/master/src/main/resources/emojis/planets/te/Cronos.png",
+    "disk": {
+      "center": [
+        1820,
+        338
+      ],
+      "radius": 197,
+      "units": "source pixels"
+    },
+    "name": "Cronos",
+    "slug": "cronos",
+    "reference": "assets/dossier-worlds/reference/cronos.png",
+    "terrain": "planets-v3/cronos.webp"
+  },
+  "Tallin": {
+    "globe": "assets/dossier-worlds/globes/tallin.png",
+    "card": "thunders-edge/firmament-the-obsidian/firmament-back.webp",
+    "description": "A pale blue polar spiral and ochre terrain face a deep red hemisphere. Tallin was a pirate haven before the Firmament took control. Its spacedocks turn out new warships every week.",
+    "effects": [
+      "traffic"
+    ],
+    "supplement": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/master/src/main/resources/emojis/planets/te/Tallin.png",
+    "disk": {
+      "center": [
+        2232,
+        187
+      ],
+      "radius": 195,
+      "units": "source pixels"
+    },
+    "props": [
+      {
+        "model": "tallin-shipyard",
+        "label": "Tallin construction dock",
+        "placement": "orbit",
+        "concept": "assets/dossier-worlds/models/tallin-shipyard-concept.webp",
+        "modelTask": "01a1e0d3-a860-70dd-8e37-e4c9f81314c5",
+        "conceptTask": "01a1e0d1-bcb9-7721-84c4-5aecce5a8828"
+      }
+    ],
+    "name": "Tallin",
+    "slug": "tallin",
+    "terrain": "planets-v3/tallin.webp"
+  },
+  "Cronos Hollow": {
+    "globe": "assets/dossier-worlds/globes/cronoshollow.png",
+    "card": "thunders-edge/firmament-the-obsidian/obsidian-back.webp",
+    "description": "The transformed ringed world retains its broad diagonal bands. The upper-right illustration darkens them to charcoal and olive and leaves a narrow yellow glow below the rings.",
+    "effects": [
+      "planetary-rings"
+    ],
+    "supplement": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/master/src/main/resources/emojis/planets/te/CronosHollow.png",
+    "disk": {
+      "center": [
+        2020,
+        264
+      ],
+      "radius": 197,
+      "units": "source pixels"
+    },
+    "name": "Cronos Hollow",
+    "slug": "cronoshollow",
+    "reference": "assets/dossier-worlds/reference/cronoshollow.png",
+    "terrain": "planets-v3/cronos-hollow.webp"
+  },
+  "Tallin Hollow": {
+    "globe": "assets/dossier-worlds/globes/tallinhollow.png",
+    "card": "thunders-edge/firmament-the-obsidian/obsidian-back.webp",
+    "description": "The second world appears at the lower left of the transformed sheet. A pale violet cyclone hangs above blackened terrain split by branching orange cracks. The nearby shard is an artistic interpretation of the fractured crust.",
+    "effects": [
+      "embers"
+    ],
+    "supplement": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/master/src/main/resources/emojis/planets/te/TallinHollow.png",
+    "disk": {
+      "center": [
+        822,
+        1465
+      ],
+      "radius": 196,
+      "units": "source pixels"
+    },
+    "props": [
+      {
+        "model": "obsidian-remnant",
+        "label": "Fragment of hollow crust (interpretation)",
+        "placement": "orbit",
+        "concept": "assets/dossier-worlds/models/obsidian-remnant-concept.webp",
+        "modelTask": "01a1e0d3-b688-7022-a9de-ecb69cb9dbd3",
+        "conceptTask": "01a1e0d1-c61e-737a-839c-2f72b08d5cc8"
+      }
+    ],
+    "name": "Tallin Hollow",
+    "slug": "tallinhollow",
+    "terrain": "planets-v3/tallin-hollow.webp"
+  },
+  "Mecatol Rex": {
+    "globe": "assets/dossier-worlds/globes/mecatol-rex.png",
+    "card": "thunders-edge/council-keleres/back.webp",
+    "description": "Clusters of golden city lights stand out against the dark surface in the Keleres headquarters dossier. Imperial Intelligence HQ in Mecatol City houses the Keleres while the Custodia Vigilia is under construction.",
+    "effects": [
+      "traffic"
+    ],
+    "disk": {
+      "center": [
+        983,
+        -7
+      ],
+      "radius": 222,
+      "units": "source pixels"
+    },
+    "evidence": "The sheet illustrates the organizational headquarters. In play Keleres uses its selected member’s home system.",
+    "restoration": "Matching board globe cutout registered to the visible dossier image. The board illustration supplies the areas concealed by the card layout.",
+    "restorationSource": "https://github.com/AsyncTI4/TI4_map_generator_bot/blob/b79ba115e86c5e25501583caae4d0c9b97cdfc47/src/main/resources/emojis/planets/base/Mecatol.png",
+    "props": [
+      {
+        "model": "custodia-vigilia",
+        "label": "Custodia Vigilia construction site",
+        "placement": "surface"
+      }
+    ],
+    "name": "Mecatol Rex",
+    "slug": "mecatol-rex",
+    "terrain": null
+  }
+}

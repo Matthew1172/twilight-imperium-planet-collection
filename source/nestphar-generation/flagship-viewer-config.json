@@ -1,0 +1,570 @@
+{
+  "duhamenaimon": {
+    "name": "Duha Menaimon",
+    "folder": "base-game/arborec",
+    "faction": "The Arborec",
+    "model": "models-v3/arborec_flagship_duhamenaimon_50mm.stl",
+    "systems": [
+      [
+        {
+          "name": "Nestphar",
+          "texture": "planets-v3/nestphar.webp"
+        }
+      ]
+    ],
+    "poster": "flagships-v2/duhamenaimon-concept.png"
+  },
+  "quetzecoatl": {
+    "name": "Quetzecoatl",
+    "folder": "prophecy-of-kings/argent-flight",
+    "faction": "The Argent Flight",
+    "model": "models-v3/argent-flight_flagship_quetzecoatl_50mm.stl",
+    "systems": [
+      [
+        {
+          "name": "Valk",
+          "texture": "planets-v3/valk.webp"
+        },
+        {
+          "name": "Ylir",
+          "texture": "planets-v3/ylir.webp"
+        },
+        {
+          "name": "Avar",
+          "texture": "planets-v3/avar.webp"
+        }
+      ]
+    ],
+    "poster": "flagships-v2/quetzecoatl-concept.png"
+  },
+  "theterrorbetween": {
+    "name": "The Terror Between",
+    "folder": "prophecy-of-kings/vuil-raith-cabal",
+    "faction": "The Vuil’Raith Cabal",
+    "model": "models-v3/vuil-raith-cabal_flagship_theterrorbetween_50mm.stl",
+    "systems": [
+      [
+        {
+          "name": "Acheron",
+          "texture": "planets-v3/acheron.webp"
+        }
+      ]
+    ],
+    "poster": "flagships-v2/theterrorbetween-concept.png"
+  },
+  "dynamo": {
+    "name": "Dynamo",
+    "folder": "prophecy-of-kings/empyrean",
+    "faction": "The Empyrean",
+    "model": "models-v3/empyrean_flagship_dynamo_50mm.stl",
+    "systems": [
+      [
+        {
+          "name": "The Dark",
+          "texture": "planets-v3/thedark.webp"
+        }
+      ]
+    ],
+    "poster": "flagships-v2/dynamo-concept.png"
+  },
+  "hilcolish": {
+    "name": "Hil Colish",
+    "folder": "base-game/ghosts-of-creuss",
+    "faction": "The Ghosts of Creuss",
+    "model": "models-v3/ghosts-of-creuss_flagship_hilcolish_50mm.stl",
+    "systems": [
+      [
+        {
+          "name": "Creuss",
+          "texture": "planets-v3/creuss.webp"
+        }
+      ]
+    ],
+    "poster": "flagships-v2/hilcolish-concept.png"
+  },
+  "wrathofkenara": {
+    "name": "Wrath of Kenara",
+    "folder": "base-game/emirates-of-hacan",
+    "faction": "The Emirates of Hacan",
+    "model": "models-v3/emirates-of-hacan_flagship_wrathofkenara_50mm.stl",
+    "systems": [
+      [
+        {
+          "name": "Hercant",
+          "texture": "planets-v3/hercant.webp"
+        },
+        {
+          "name": "Arretze",
+          "texture": "planets-v3/arretze.webp"
+        },
+        {
+          "name": "Kamdorn",
+          "texture": "planets-v3/kamdorn.webp"
+        }
+      ]
+    ],
+    "poster": "flagships-v2/wrathofkenara-concept.png"
+  },
+  "jnshylarim": {
+    "name": "J.N.S. Hylarim",
+    "folder": "base-game/universities-of-jol-nar",
+    "faction": "The Universities of Jol-Nar",
+    "model": "models-v3/universities-of-jol-nar_flagship_jnshylarim_50mm.stl",
+    "systems": [
+      [
+        {
+          "name": "Nar",
+          "texture": "planets-v3/nar.webp"
+        },
+        {
+          "name": "Jol",
+          "texture": "planets-v3/jol.webp"
+        }
+      ]
+    ],
+    "poster": "flagships-v2/jnshylarim-concept.png"
+  },
+  "001": {
+    "name": "[0.0.1]",
+    "folder": "base-game/l1z1x-mindnet",
+    "faction": "The L1Z1X Mindnet",
+    "model": "models-v3/l1z1x-mindnet_flagship_001_50mm.stl",
+    "systems": [
+      [
+        {
+          "name": "[0.0.0]",
+          "texture": "planets-v3/0-0-0.webp"
+        }
+      ]
+    ],
+    "poster": "flagships-v2/001-concept.png"
+  },
+  "arcsecundus": {
+    "name": "Arc Secundus",
+    "folder": "base-game/barony-of-letnev",
+    "faction": "The Barony of Letnev",
+    "model": "models-v3/barony-of-letnev_flagship_arcsecundus_50mm.stl",
+    "systems": [
+      [
+        {
+          "name": "Arc Prime",
+          "texture": "planets-v3/arcprime.webp"
+        },
+        {
+          "name": "Wren Terra",
+          "texture": "planets-v3/wrenterra.webp"
+        }
+      ]
+    ],
+    "poster": "flagships-v2/arcsecundus-concept.png"
+  },
+  "arviconrex": {
+    "name": "Arvicon Rex",
+    "folder": "prophecy-of-kings/mahact-gene-sorcerers",
+    "faction": "The Mahact Gene-Sorcerers",
+    "model": "models-v3/mahact-gene-sorcerers_flagship_arviconrex_50mm.stl",
+    "systems": [
+      [
+        {
+          "name": "Ixth",
+          "texture": "planets-v3/ixth.webp"
+        }
+      ]
+    ],
+    "poster": "flagships-v2/arviconrex-concept.png"
+  },
+  "fourthmoon": {
+    "name": "Fourth Moon",
+    "folder": "base-game/mentak-coalition",
+    "faction": "The Mentak Coalition",
+    "model": "models-v3/mentak-coalition_flagship_fourthmoon_50mm.stl",
+    "systems": [
+      [
+        {
+          "name": "Moll Primus",
+          "texture": "planets-v3/mollprimus.webp"
+        }
+      ]
+    ],
+    "poster": "flagships-v2/fourthmoon-concept.png"
+  },
+  "theinferno": {
+    "name": "The Inferno",
+    "folder": "base-game/embers-of-muaat",
+    "faction": "The Embers of Muaat",
+    "model": "models-v3/embers-of-muaat_flagship_theinferno_50mm.stl",
+    "systems": [
+      [
+        {
+          "name": "Muaat",
+          "texture": "planets-v3/muaat.webp"
+        }
+      ]
+    ],
+    "poster": "flagships-v2/theinferno-concept.png"
+  },
+  "matriarch": {
+    "name": "Matriarch",
+    "folder": "base-game/naalu-collective",
+    "faction": "The Naalu Collective",
+    "model": "models-v3/naalu-collective_flagship_matriarch_50mm.stl",
+    "systems": [
+      [
+        {
+          "name": "Maaluuk",
+          "texture": "planets-v3/maaluuk.webp"
+        },
+        {
+          "name": "Druaa",
+          "texture": "planets-v3/druaa.webp"
+        }
+      ]
+    ],
+    "poster": "flagships-v2/matriarch-concept.png"
+  },
+  "viszelvir": {
+    "name": "Visz El Vir",
+    "folder": "prophecy-of-kings/naaz-rokha-alliance",
+    "faction": "The Naaz-Rokha Alliance",
+    "model": "models-v3/naaz-rokha-alliance_flagship_viszelvir_50mm.stl",
+    "systems": [
+      [
+        {
+          "name": "Naazir",
+          "texture": "planets-v3/naazir.webp"
+        },
+        {
+          "name": "Rokha",
+          "texture": "planets-v3/rokha.webp"
+        }
+      ]
+    ],
+    "poster": "flagships-v2/viszelvir-concept.png"
+  },
+  "thealastor": {
+    "name": "The Alastor",
+    "folder": "base-game/nekro-virus",
+    "faction": "The Nekro Virus",
+    "model": "models-v3/nekro-virus_flagship_thealastor_50mm.stl",
+    "systems": [
+      [
+        {
+          "name": "Mordai II",
+          "texture": "planets-v3/mordaiii.webp"
+        }
+      ]
+    ],
+    "poster": "flagships-v2/thealastor-concept.png"
+  },
+  "memoriai": {
+    "name": "Memoria I",
+    "folder": "prophecy-of-kings/nomad",
+    "faction": "The Nomad",
+    "model": "models-v3/nomad_flagship_memoriai_50mm.stl",
+    "systems": [
+      [
+        {
+          "name": "Arcturus",
+          "texture": "planets-v3/arcturus.webp"
+        }
+      ]
+    ],
+    "poster": "flagships-v2/memoriai-concept.png"
+  },
+  "memoriaii": {
+    "name": "Memoria II",
+    "folder": "prophecy-of-kings/nomad",
+    "faction": "The Nomad",
+    "model": "models-v3/nomad_flagship_memoriaii_50mm.stl",
+    "systems": [
+      [
+        {
+          "name": "Arcturus",
+          "texture": "planets-v3/arcturus.webp"
+        }
+      ]
+    ],
+    "poster": "flagships-v2/memoriaii-concept.png"
+  },
+  "sonofragh": {
+    "name": "Son of Ragh",
+    "folder": "base-game/clan-of-saar",
+    "faction": "The Clan of Saar",
+    "model": "models-v3/clan-of-saar_flagship_sonofragh_50mm.stl",
+    "systems": [
+      [
+        {
+          "name": "Lisis II",
+          "texture": "planets-v3/lisisii.webp"
+        },
+        {
+          "name": "Ragh",
+          "texture": "planets-v3/ragh.webp"
+        }
+      ]
+    ],
+    "poster": "flagships-v2/sonofragh-concept.png"
+  },
+  "cmorrannorr": {
+    "name": "C'morran N'orr",
+    "folder": "base-game/sardakk-n-orr",
+    "faction": "Sardakk N’orr",
+    "model": "models-v3/sardakk-n-orr_flagship_cmorrannorr_50mm.stl",
+    "systems": [
+      [
+        {
+          "name": "Tren'lak",
+          "texture": "planets-v3/trenlak.webp"
+        },
+        {
+          "name": "Quinarra",
+          "texture": "planets-v3/quinarra.webp"
+        }
+      ]
+    ],
+    "poster": "flagships-v2/cmorrannorr-concept.png"
+  },
+  "genesis": {
+    "name": "Genesis",
+    "folder": "base-game/federation-of-sol",
+    "faction": "The Federation of Sol",
+    "model": "models-v3/federation-of-sol_flagship_genesis_50mm.stl",
+    "systems": [
+      [
+        {
+          "name": "Jord",
+          "texture": "planets-v3/jord.webp"
+        }
+      ]
+    ],
+    "poster": "flagships-v2/genesis-concept.png"
+  },
+  "ouranos": {
+    "name": "Ouranos",
+    "folder": "prophecy-of-kings/titans-of-ul",
+    "faction": "The Titans of Ul",
+    "model": "models-v3/titans-of-ul_flagship_ouranos_50mm.stl",
+    "systems": [
+      [
+        {
+          "name": "Elysium",
+          "texture": "planets-v3/elysium.webp"
+        }
+      ]
+    ],
+    "poster": "flagships-v2/ouranos-concept.png"
+  },
+  "salaisaicorian": {
+    "name": "Salai Sai Corian",
+    "folder": "base-game/winnu",
+    "faction": "The Winnu",
+    "model": "models-v3/winnu_flagship_salaisaicorian_50mm.stl",
+    "systems": [
+      [
+        {
+          "name": "Winnu",
+          "texture": "planets-v3/winnu.webp"
+        }
+      ]
+    ],
+    "poster": "flagships-v2/salaisaicorian-concept.png"
+  },
+  "loncarassodu": {
+    "name": "Loncara Ssodu",
+    "folder": "base-game/xxcha-kingdom",
+    "faction": "The Xxcha Kingdom",
+    "model": "models-v3/xxcha-kingdom_flagship_loncarassodu_50mm.stl",
+    "systems": [
+      [
+        {
+          "name": "Archon Ren",
+          "texture": "planets-v3/archonren.webp"
+        },
+        {
+          "name": "Archon Tau",
+          "texture": "planets-v3/archontau.webp"
+        }
+      ]
+    ],
+    "poster": "flagships-v2/loncarassodu-concept.png"
+  },
+  "vanhauge": {
+    "name": "Van Hauge",
+    "folder": "base-game/yin-brotherhood",
+    "faction": "The Yin Brotherhood",
+    "model": "models-v3/yin-brotherhood_flagship_vanhauge_50mm.stl",
+    "systems": [
+      [
+        {
+          "name": "Darien",
+          "texture": "planets-v3/darien.webp"
+        }
+      ]
+    ],
+    "poster": "flagships-v2/vanhauge-concept.png"
+  },
+  "ysiayssrila": {
+    "name": "Y'sia Y'ssrila",
+    "folder": "base-game/yssaril-tribes",
+    "faction": "The Yssaril Tribes",
+    "model": "models-v3/yssaril-tribes_flagship_ysiayssrila_50mm.stl",
+    "systems": [
+      [
+        {
+          "name": "Retillion",
+          "texture": "planets-v3/retillion.webp"
+        },
+        {
+          "name": "Shalloq",
+          "texture": "planets-v3/shalloq.webp"
+        }
+      ]
+    ],
+    "poster": "flagships-v2/ysiayssrila-concept.png"
+  },
+  "artemiris": {
+    "name": "Artemiris",
+    "folder": "thunders-edge/council-keleres",
+    "faction": "The Council Keleres",
+    "model": "models-v3/council-keleres_flagship_artemiris_50mm.stl",
+    "systems": [
+      [
+        {
+          "name": "Moll Primus",
+          "texture": "planets-v3/mollprimus.webp"
+        }
+      ],
+      [
+        {
+          "name": "Archon Ren",
+          "texture": "planets-v3/archonren.webp"
+        },
+        {
+          "name": "Archon Tau",
+          "texture": "planets-v3/archontau.webp"
+        }
+      ],
+      [
+        {
+          "name": "Valk",
+          "texture": "planets-v3/valk.webp"
+        },
+        {
+          "name": "Ylir",
+          "texture": "planets-v3/ylir.webp"
+        },
+        {
+          "name": "Avar",
+          "texture": "planets-v3/avar.webp"
+        }
+      ]
+    ],
+    "poster": "flagships-v2/artemiris-concept.png"
+  },
+  "theegeiro": {
+    "name": "The Egeiro",
+    "folder": "thunders-edge/last-bastion",
+    "faction": "Last Bastion",
+    "model": "models-v3/last-bastion_flagship_theegeiro_50mm.stl",
+    "systems": [
+      [
+        {
+          "name": "Ordinian",
+          "texture": "planets-v3/ordinian.webp"
+        },
+        {
+          "name": "Revelation",
+          "texture": "planets-v3/revelation.webp"
+        }
+      ]
+    ],
+    "poster": "flagships-v2/theegeiro-concept.png"
+  },
+  "dwsluminous": {
+    "name": "D.W.S. Luminous",
+    "folder": "thunders-edge/deepwrought-scholarate",
+    "faction": "The Deepwrought Scholarate",
+    "model": "models-v3/deepwrought-scholarate_flagship_dwsluminous_50mm.stl",
+    "systems": [
+      [
+        {
+          "name": "Ikatena",
+          "texture": "planets-v3/ikatena.webp"
+        }
+      ]
+    ],
+    "poster": "flagships-v2/dwsluminous-concept.png"
+  },
+  "quietus": {
+    "name": "Quietus",
+    "folder": "thunders-edge/crimson-rebellion",
+    "faction": "The Crimson Rebellion",
+    "model": "models-v3/crimson-rebellion_flagship_quietus_50mm.stl",
+    "systems": [
+      [
+        {
+          "name": "Ahk Creuxx",
+          "texture": "planets-v3/ahkcreuxx.webp"
+        }
+      ]
+    ],
+    "poster": "flagships-v2/quietus-concept.png"
+  },
+  "lastdispatch": {
+    "name": "Last Dispatch",
+    "folder": "thunders-edge/ral-nel-consortium",
+    "faction": "The Ral Nel Consortium",
+    "model": "models-v3/ral-nel-consortium_flagship_lastdispatch_50mm.stl",
+    "systems": [
+      [
+        {
+          "name": "Mez Lo Orz Fei Zsha",
+          "texture": "planets-v3/mez.webp"
+        },
+        {
+          "name": "Rep Lo Orz Qet",
+          "texture": "planets-v3/rep.webp"
+        }
+      ]
+    ],
+    "poster": "flagships-v2/lastdispatch-concept.png"
+  },
+  "heavenseye": {
+    "name": "Heaven's Eye",
+    "folder": "thunders-edge/firmament-the-obsidian",
+    "faction": "The Firmament / The Obsidian",
+    "model": "models-v3/firmament-the-obsidian_flagship_heavenseye_50mm.stl",
+    "systems": [
+      [
+        {
+          "name": "Cronos",
+          "texture": "planets-v3/cronos.webp"
+        },
+        {
+          "name": "Tallin",
+          "texture": "planets-v3/tallin.webp"
+        }
+      ]
+    ],
+    "poster": "flagships-v2/heavenseye-concept.png"
+  },
+  "heavenshollow": {
+    "name": "Heaven's Hollow",
+    "folder": "thunders-edge/firmament-the-obsidian",
+    "faction": "The Firmament / The Obsidian",
+    "model": "models-v3/firmament-the-obsidian_flagship_heavenshollow_50mm.stl",
+    "systems": [
+      [
+        {
+          "name": "Cronos Hollow",
+          "texture": "planets-v3/cronos-hollow.webp"
+        },
+        {
+          "name": "Tallin Hollow",
+          "texture": "planets-v3/tallin-hollow.webp"
+        }
+      ]
+    ],
+    "poster": "flagships-v2/heavenshollow-concept.png"
+  }
+}

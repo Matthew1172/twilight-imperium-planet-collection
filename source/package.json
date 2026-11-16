@@ -1,0 +1,14 @@
+{
+  "name": "planet-viewer-build",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "esbuild viewer/viewer-terrain-pilot.js --bundle --minify --outfile=../build/flagships-nestphar-satellite-global-v1.js"
+  },
+  "dependencies": {
+    "three": "0.187.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2"
+  }
+}
